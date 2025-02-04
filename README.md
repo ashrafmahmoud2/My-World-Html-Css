@@ -29,7 +29,6 @@ This website is a personal blog showcasing various aspects of my life, including
 
 * HTML
 * CSS
-* JavaScript (optional)
 
 **To Run This Website:**
 
